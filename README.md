@@ -1,6 +1,7 @@
 # DSA-CPP
 
-All the code written in the Leetcode this year will go there.....
-1 - 2sum
-2 - valid Anagram
-3 - group Anagram
+All the code written on LeetCode this year will go here.
+
+1. Two Sum
+2. Valid Anagram
+3. Group Anagrams
