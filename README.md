@@ -8,3 +8,4 @@ All the code written on LeetCode this year will go here.
 4. top K frequency in an array
 5. Product of Array Except Self
 6. Longest Consecutive Sequence
+7. Valid Palindrome
