@@ -13,3 +13,4 @@ All the code written on LeetCode this year will go here.
 9. 3Sum
 10. Container With Most Water
 11. Best Time to Buy and Sell Stock
+12. Maximum Average Subarray I
